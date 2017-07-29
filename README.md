@@ -2,6 +2,8 @@
 
 Computer manages your life!
 
+Set it and forget it.
+
 Life includes:
 - Cooking
 - Groceries/meals
